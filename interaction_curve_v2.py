@@ -559,6 +559,6 @@ st.markdown("""
     - [E-Mail](mailto:white.wulf4@gmail.com)
             """)
 
-if st.sidebar.button("Support the Developer"):
+if st.sidebar.button("Support the Developer!"):
     st.sidebar.write("Thank you wooo-ho-man!😊")
 
